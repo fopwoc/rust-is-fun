@@ -1,0 +1,14 @@
+[workspace]
+
+members = [
+    "hello_world",
+    "guessing_game",
+    "array_index_error",
+    "playground",
+    "f2c",
+    "fibonacci",
+    "rectangle",
+    "minigrep",
+    "giveaway",
+    "workout"
+]
